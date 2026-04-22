@@ -1,0 +1,5 @@
+Fazer uma pasta data com todos os preenchimentos dos campos(mock)
+criar classes compartilhadas (browser por exemplo)
+uma constante com o URL
+python -m passa o caminho todo
+Fazer um modulo pra cada atividade
