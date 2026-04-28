@@ -3,3 +3,16 @@ criar classes compartilhadas (browser por exemplo)
 uma constante com o URL
 python -m passa o caminho todo
 Fazer um modulo pra cada atividade
+
+
+Demora -> wait
+dinamico -> seletor robusto
+falha -> retry
+
+corrigir o erro do navigation no código do professor
+
+*Coisas para fazer:
+1. Passar o código do problema 1 pro Solid.
+2. Terminar de verdade os cursos do botcity.
+3. Instalar e mexer no botcity
+4. Estudar a merda do Beatiful Soup
