@@ -17,3 +17,22 @@ corrigir o erro do navigation no código do professor
 3. Instalar e mexer no botcity
 4. Estudar a merda do Beatiful Soup
 5. Fazer o exemplo do beautiful soup de verdade
+
+04/05/2026
+->Supostamente primeira aula de Playwright(Faltou muita gente)
+->Refinamento final do primeiro exemplo: Fazer cadastro e verificar se o usuário já está loggado
+Se já estiver loggado, fazer login. Caso não esteja logado, concluir o cadastro. 
+Envolve pegar o spam de "usuário já cadastrado".
+<p style="color: red;">Email Address already exist!</p> html
+#form > div > div > div:nth-child(3) > div > form > p selector
+//*[@id="form"]/div/div/div[3]/div/form/p xpath 
+
+**PROGRESSO DA ATIVIDADE 1(Prioridade)
+1)Fazer refatoração do código para separar em métodos e classes(SOLID)
+Feito?: 
+
+2)Implementar um método deletar
+Feito?: 
+
+3)Implementar verificação de usuário já cadastrado.
+Feito?:
