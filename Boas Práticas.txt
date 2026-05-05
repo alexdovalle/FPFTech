@@ -36,3 +36,27 @@ Feito?:
 
 3)Implementar verificação de usuário já cadastrado.
 Feito?:
+
+05/05/2026
+-> PLAYWRIGHT
+-> Mais moderno e mais rápido que o selenium
+-> Lida com scripts lentos
+-> Wait_until é o método mais eficiente do Selenium para fazer o programa esperar.
+-> Ver o slide do professor sobre paralelismo e concorrência.
+
+-> Proposta da Sexta-feira: Usar o BotCity pra automatizar tudo que a gente fez até agora.
+-ATIVIDADE DE HOJE: USAR O PLAYWRIGHT PRA FAZER O EXERCÍCIO DE IMPRIMIR O NOME E VALOR DOS PRODUTOS.
+O que o código faz:
+1)Recebe um URL
+2)Entra no URL
+3)Procura a página "produtos"
+4)Encontra o primeiro produto
+5)Guarda o nome e o valor
+6)Imprime o nome e o valor
+7)Segue para o próximo produto
+
+Feito?: SIM CARALHOOOOOOOOOO
+
+Possíveis melhorias:
+1) Fazer a refatoração
+2) Deixar a saída mais bonitinha
