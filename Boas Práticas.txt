@@ -60,3 +60,33 @@ Feito?: SIM CARALHOOOOOOOOOO
 Possíveis melhorias:
 1) Fazer a refatoração
 2) Deixar a saída mais bonitinha
+
+06/05/26
+->Aula de Git(supostamente)
+-> Working Tree -> stage(estágios diferentes)
+-> git add pra adicionar na stage
+-> git commit -m(message) pra adicionar no histórico 
+-> git push origin main/ manda pro remoto(GitHub, GitLab, etc.)
+-> Trazer atualizações do main(git pull origin main)
+-> Branches: linhas de desenvolvimento paralelas que evitam conflitos, organizam entregas. 
+-> git branch lista todas as branches
+-> merge vs rebase
+-> Pull request é uma camada antes do merge, onde o código passará por um processo de revisão antes de permitir o merge
+-> -b(branch)
+*Learn Git Branching
+-> git branch nomeBranch cria nova branch
+-> git checkout nomeBranch vai para a branch que você quiser
+-> Git checkout -b cria uma branch e vai para ela.
+
+
+07/05/2026(Hoje vai ser um excelente dia)
+-> Engenharia de Automação Moderna
+-> Será que estamos fazendo automação da melhor forma possível.
+-> O maior erro dos iniciantes é automatizar só a interface, não o fluxo do sistema.
+-> Consumo de API
+-> O PYAutoGUI faz as buscas dele por meio de coordenadas de elementos na tela 
+-> O engenheiro de automação abre o DEVTools, procura o network e resolve.
+-> Aplicação <>API <>Usuário(Tipo cozinha - garçom - cliente
+-> Contexto: Permite a criação de automações com usuários diferentes ou gerar automações com paralelismo. (Usuário com níveis de responsabilidade diferentes.)
+-> context1 = browser.new_context()
+-> context2= browser.new_context()

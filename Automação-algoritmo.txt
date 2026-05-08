@@ -1,0 +1,18 @@
+#### **2. "Limpador de Inbox" (Gmail)**
+
+Uma automação que seleciona todos os e-mails de promoções ou redes sociais que têm mais de 30 dias e clica no botão **Excluir**.
+• **Ação:** `Filtrar busca` → `Selecionar todos` → `Click(Lixeira)`.
+
+Passo a Passo da Automação:
+1) O programa entre no gmail
+2) O programa preenche o email
+3) O programa coloca a senha 
+4) O programa aperta okay
+5) O programa entra na página principal do email
+6) o programa procura por category:promotions older_than:30d
+7) marca deletar todos
+8) seleciona a opção //*[@id=":1q0"] (Essa opção marca todos os arquivos do email)
+9) Clicar em deleta
+10) C&P
+
+feature/ax-automacao2
